@@ -67,6 +67,9 @@ img{
 }
 .top.right {
     position:fixed;
-    top: 38%;
-    left: 85%;
+    top: 40%;
+    left: 86%;
+}
+a:hover{
+    background-color: rgb(213, 201, 29);
 }
