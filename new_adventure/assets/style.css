@@ -1,20 +1,20 @@
 body {
-    margin: 100px;   
+    margin: 100px;
     background-color: black;
     font-size: 60px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    height:fit-content;
+    height: fit-content;
 }
 
 h1 {
-    color:rgb(255, 255, 255);
-    text-shadow:-2px 7px 20px rgb(231, 231, 45);
+    color: rgb(255, 255, 255);
+    text-shadow: -2px 7px 20px rgb(231, 231, 45);
     border-radius: 100px;
-    font-family: serif; 
+    font-family: serif;
     size: 100px;
     text-align: end;
     height: 100px;
-    }
+}
 
 h2 {
     color: rgb(255, 255, 255);
@@ -22,7 +22,8 @@ h2 {
     font-size: 100px;
     text-align: center;
     position: static;
-    top: 200px; left: 200px;
+    top: 200px;
+    left: 200px;
 }
 
 p {
@@ -40,21 +41,23 @@ p {
     margin: 10px;
     background-color: rgb(0, 0, 0);
     border-radius: 80px;
-    background-clip: border-box;
-    box-shadow: -90px -90px 200px 100px #3fb6bc;
+    border: 5px solid #3fb6bc;
+    /* background-clip: border-box; */
+    /* box-shadow: -90px -90px 200px 100px #3fb6bc; */
 }
-img {
-    overflow: scroll;
-    border-radius: 80px;
-    padding-left: 80%;
-    border: 10px;
-    background-color: rgb(0, 0, 0);
-    justify-content:center;
-    }
+
+/* img { */
+/* overflow: scroll; */
+/* border-radius: 80px; */
+/* padding-left: 80%; */
+/* border: 10px; */
+/* background-color: rgb(0, 0, 0); */
+/* justify-content:center; */
+/* } */
 
 a {
     border: none;
-    margin: 23px 13px 19px 22px; 
+    margin: 23px 13px 19px 22px;
     color: rgba(246, 232, 33, 0.894);
     font-size: 100px;
     justify-content: normal;
@@ -66,27 +69,35 @@ a {
     margin: 50px;
     height: 50px;
 }
+
 .top.right {
     position: block;
-    text-align:start;
+    text-align: start;
     text-align: initial;
 
 }
+
 a:hover {
     background-color: rgb(43, 132, 119);
 }
 
 #wallpaper {
-    background-image: linear-gradient(rgb(170, 0, 0),rgba(49, 14, 174, 0.5)),
+    background-image: linear-gradient(rgb(170, 0, 0), rgba(49, 14, 174, 0.5)),
         url("https://neet22.files.wordpress.com/2020/10/09e7b79e7a0a8a5e218e76d191d3ed07.gif");
-            background-attachment: local;
-            background-repeat: no-repeat;
-            border-radius: 20px;
+    background-attachment: local;
+    background-repeat: no-repeat;
+    border-radius: 20px;
     width: 150px 0px;
     height: 500px;
 }
+
 .flex-container {
     display: flex;
     height: 250px;
     background-color: rgb(153, 41, 41);
-  }
+}
+
+.fun-image {
+    display: flex;
+    background-color: black;
+}
