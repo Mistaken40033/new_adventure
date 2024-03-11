@@ -31,22 +31,23 @@ p {
     color: rgb(249, 247, 247);
     text-align: right;
     font-family: serif;
-    font-size: 50%;
+    font-size: 100%;
     display: flex;
 }
 
 .image-container {
-    padding: 128px;
-    margin: 19px;
-    display: inline-flex;
-    align-items: center;
-    flex-direction: row;
+    padding: 140px;
+    margin: 334px;
+    display: inline-block;
+    text-align: center;
     background-color: rgb(0, 0, 0);
     border-radius: 827px;
-    border: 1px solid #3fb6bc;
+    border: 45px solid #ffffff;
     box-shadow: 20px 14px 200px 100px #3fb6bc;
     /* background-clip: border-box; */
     /* border-radius: 50px; */
+    /* align-items: center;
+    flex-direction: row; */
 }
 
 /* img { */
@@ -65,6 +66,7 @@ a {
     justify-content: center;
     font-size: 200%;
     font-weight: bolder;
+    text-align: end;
 }
 
 .top-left {
@@ -86,13 +88,14 @@ a:hover {
 }
 
 #wallpaper {
-    background-image: linear-gradient(rgb(170, 0, 0), rgba(49, 14, 174, 0.5)),
+    text-align:center;
+    background-image: linear-gradient(rgba(85, 30, 30, 0.561), rgba(49, 14, 174, 0.264)),
         url("https://neet22.files.wordpress.com/2020/10/09e7b79e7a0a8a5e218e76d191d3ed07.gif");
     background-attachment: local;
     background-repeat: no-repeat;
-    border-radius: 20px;
-    width: 150px 0px;
-    height: 500px;
+    border-radius: 120px;
+    /* width: 150px 0px; */
+    height: 750px;
 }
 
 /* .flex-container {
@@ -102,11 +105,11 @@ a:hover {
 } */
 
 .fun-image {
-    padding: 25px;
-    margin: 125px;
+    padding: 110px;
+    margin: 48px;
     display: inline-flex;
     flex-direction: column-reverse;    
-    box-shadow: 20px 14px 200px 100px #3fb6bc;
+    box-shadow: inset 0px 0px 180px 60px #3fb6bc;
     border-radius: 30px;
     align-items: center;
     /* align-content: flex-start;
@@ -118,21 +121,37 @@ a:hover {
     font-size: 80%; 
 }
 li{
-    font-size: 30px;
+    font-size: 60px;
+    text-align: center;
     display: block;
     margin: 20px;
     padding: 10px;
     flex-flow: wrap;
 }
-.emptybox1, .emptybox2, .emptybox3, .emptybox4{
-    display: inline-block;
-    flex-direction: row;
-    flex-wrap: wrap;
-    flex-flow: row;
-    justify-content: center;
+.emptybox1, .emptybox3{
+    display: inline-flex;
+    flex-direction:column-reverse;
+    /* flex-wrap: wrap; */
+    /* flex-flow: row; */
+    /* justify-content: center; */
     padding: 100px;
     margin: 30px;
-    background-color: rgb(0, 0, 0);
-    border-radius: 30px;
+    background-position: right;
+    background-color: black;
+    box-shadow: -15px 20px 20px 11px #a61d84;
+    border-radius: 40px;
    
+}
+.emptybox2{
+    display: inline-flex;
+    flex-direction:column-reverse;
+    padding: 100px;
+    margin: 30px;
+    background-position: right;
+    background-color: black;
+    box-shadow: -15px 20px 20px 11px #85c3c6;
+    border-radius: 40px;   
+}
+.Resume{
+    background-position: right;
 }
