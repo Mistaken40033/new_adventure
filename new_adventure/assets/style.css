@@ -16,13 +16,23 @@ h1 {
     height: 0px;
 }
 
+address{
+    margin: 120px;
+    font-family: cursive;
+    font-size: 100%;
+    text-align: center;
+    color: #691053;
+    font-weight: 900;
+    border-style: dotted;
+}
 h2 {
     color: rgb(255, 255, 255);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 100px;
-    text-align: end;
+    /* font-family: cursive; */
+    height: auto;
+    margin-top: auto;
+    /* text-align: end;
     position: static;
-    display: inline;
+    display: inline; */
 }
 
 p {
