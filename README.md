@@ -4,6 +4,16 @@ Porfolio
 ## Landing To Our Own World
 I'll be giving an example of how my head wonders. I'm never in one place when it comes to being me and my imagination of fun.
 
+This is my very first homework project, something that keep changing from "Version 1" ending up being "Version 5", kinda wished 
+I should have created those repos edits for the rest of my work to show. It went from very dark colors, then changed to Pink!
+Since I've just started, I added images from Pinterest. 
+By clicking on the images for "Project 1-4" will take you to google.
+I created a fake "email" but would open to outlook, and finally the only real link I added was myt LinkedIn page.
+
+The design kept changing, but I learned A LOT from trial and error, but hopefully with this first project made BY ME! (so proud of myself)!!!
+----------------------------------------------------------------------------------------------------------------------------
+
+
 ## User Story
 AS AN employer
 I WANT to view a potential employee's deployed portfolio of work samples
