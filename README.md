@@ -11,6 +11,14 @@ By clicking on the images for "Project 1-4" will take you to google.
 I created a fake "email" but would open to outlook, and finally the only real link I added was myt LinkedIn page.
 
 The design kept changing, but I learned A LOT from trial and error, but hopefully with this first project made BY ME! (so proud of myself)!!!
+
+## Tools
+- Google
+- Xpert Learning
+- Tutor
+- Re-watched Zoom Classes
+- Copied the information Below
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 
