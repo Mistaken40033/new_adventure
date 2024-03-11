@@ -105,7 +105,7 @@ a:hover {
 } */
 
 .fun-image {
-    padding: 110px;
+    padding: 0px;
     margin: 48px;
     display: inline-flex;
     flex-direction: column-reverse;    
@@ -134,12 +134,12 @@ li{
     /* flex-wrap: wrap; */
     /* flex-flow: row; */
     /* justify-content: center; */
-    padding: 100px;
-    margin: 30px;
+    padding: 75px;
+    margin: 5px;
     background-position: right;
     background-color: black;
     box-shadow: -15px 20px 20px 11px #a61d84;
-    border-radius: 40px;
+    border-radius: 225px;
    
 }
 .emptybox2{
