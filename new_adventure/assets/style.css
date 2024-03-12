@@ -1,5 +1,5 @@
 body {
-    margin: 100px;
+    margin: 0%;
     background-color: #e2bbd1;
     font-size: 60px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -144,19 +144,19 @@ li{
     /* flex-wrap: wrap; */
     /* flex-flow: row; */
     /* justify-content: center; */
-    padding: 75px;
-    margin: 5px;
+    padding: 3%;
+    margin: 1%;
     background-position: right;
     background-color: black;
     box-shadow: -15px 20px 20px 11px #a61d84;
-    border-radius: 225px;
+    border-radius: 40px;
    
 }
 .emptybox2{
     display: inline-flex;
     flex-direction:column-reverse;
-    padding: 100px;
-    margin: 30px;
+    padding: 3%;
+    margin: 1%;
     background-position: right;
     background-color: black;
     box-shadow: -15px 20px 20px 11px #85c3c6;
